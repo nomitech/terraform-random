@@ -1,2 +1,3 @@
 test
 wat
+foo
